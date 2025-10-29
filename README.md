@@ -80,5 +80,6 @@ Course resource to guide taking input from the kinect sensor:
 
 CSS Framework simplifying styling:
 [Bootstrap Framework](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-# Serendepity
-# Serendepity
+
+## Demo
+Watch a demo of the project here: https://drive.google.com/file/d/1h_FsH50Q-9jz-u8xu9tV8LmyATeF_h5H/view?usp=sharing
